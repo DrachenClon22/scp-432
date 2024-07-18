@@ -1,0 +1,1 @@
+ERROR: Empty lights in flashlight's lights array
